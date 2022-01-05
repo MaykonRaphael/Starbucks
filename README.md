@@ -43,12 +43,12 @@ Then open the index.html file in your browser!
 - [Nicepage](http://starbucks.nicepage.io/?search=#)
 ### Desktop
 <h1 align="center">
-    <img alt="Starbucks" title="Starbucks" src=".github/LAYOUT_DESKTOP.jpg" />
+    <img alt="Starbucks" title="Starbucks" src=".github/LAYOUT_DESKTOP.png" />
 </h1>
 
 ### Mobile
 <h1 align="center">
-    <img alt="Starbucks" title="Starbucks" src=".github/LAYOUT_MOBILE.jpg" />
+    <img alt="Starbucks" title="Starbucks" src=".github/LAYOUT_MOBILE.png" />
 </h1>
 
 ---
